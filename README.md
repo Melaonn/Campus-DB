@@ -18,10 +18,10 @@ A simple database-driven system to manage **faculty salary**, **subjects**, **ba
 ## 🧰 Technology Stack
 
 | Component   | Technology         |
-|------------|--------------------|
-| Backend     | MySQL / MariaDB    |
-| Frontend    | PHP / HTML / CSS (optional) |
-| Server      | XAMPP / WAMP / Apache |
+|------------|---------------------|
+| Backend     | MySQL              |
+| Frontend    | PHP / HTML / CSS   |
+| Server      | XAMPP              |
 | Tools       | phpMyAdmin         |
 | Language    | SQL                |
 
@@ -41,8 +41,8 @@ A simple database-driven system to manage **faculty salary**, **subjects**, **ba
 
 1. Install **XAMPP** or **WAMP**.
 2. Open **phpMyAdmin** and create a new database.
-3. Import the `.sql` file from the provided backup.
-4. (Optional) Connect the database to a frontend or admin panel for easier access.
+3. Import the `.sql` file from the provided backup.(not given create your own database in terminal using mysql)
+4. Connect the database to a frontend or admin panel for easier access.
 
 ---
 
